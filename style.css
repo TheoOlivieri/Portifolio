@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+.linha{
+    height: 6px;
+    width: 70px;
+    background-color:chocolate;
+    margin: 8px auto;
+}
+#App{
+    background-color: crimson;
+}
+img{
+    height: 250px;
+    width: 200px;
+}
+#Games{
+    background-color:cyan ;
+}
